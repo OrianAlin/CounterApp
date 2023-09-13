@@ -1,0 +1,7 @@
+{
+  "title": "h1",
+  "counterClock": "h2",
+  "addOne": "#app > :nth-child(3)",
+  "resetButton": "#app > :nth-child(4)",
+  "decreaseOne": "#app > :nth-child(5)"
+}
